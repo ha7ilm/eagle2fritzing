@@ -1,5 +1,7 @@
 # eagle2fritzing
 
+[Download Windows build here.](https://github.com/ha7ilm/eagle2fritzing/releases)
+
 Converters from EAGLE to Fritzing file format:
 
 *  [**brd2svg**](https://github.com/fritzing/eagle2fritzing/tree/master/brd2svg) converts EAGLE board files (.brd) to Fritzing parts (.fzp/.svg)
